@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# settings for common commands
+alias cp="cp -iv"
+alias mv="mv -iv"
+alias rm="rm -vI"
+alias mkd="mkdir -pv"
+alias ls="exa --icons --group-directories-first"
+alias dd='dsda-doom -iwad DOOM.WAD'
+alias dd2='dsda-doom -iwad DOOM2.WAD'
+
+# application aliases
+alias v="$EDITOR"
+alias vim="$EDITOR"
+alias vc="$VISUAL"
+alias p="paru"
+

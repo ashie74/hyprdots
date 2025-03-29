@@ -1,0 +1,10 @@
+{
+    "editor.minimap.enabled": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.activityBar.location": "top",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.statusBar.visible": false,"
+}

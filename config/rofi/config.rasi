@@ -1,0 +1,97 @@
+configuration {
+
+  display-drun: "App:";
+  display-run: "Run:";
+  display-window: "Win:";
+  drun-display-format : "{icon} {name}";
+  font: "JetBrainsMono Nerd Font 10";
+  modi: "window,run,drun";
+  show-icons: true;
+  icon-theme: "Papirus";
+}
+
+@theme "/dev/null"
+
+*{
+ bg: #1e1e2e;
+ bg-alt: #f5c2e7;
+
+ fg: #cdd6f4;
+ fg-alt: #7f849c;
+
+ bs: #313244;
+
+ background-color: @bg;
+
+ border: 0;
+ margin: 0;
+ padding: 0;
+ spacing: 2;
+}
+
+window {
+  width: 23%;
+  border: 2;
+  border-color: @bg-alt;
+  border-radius: 7;
+}
+
+element {
+  padding: 6;
+  background-color: @bg;
+  text-color: @fg-alt;
+}
+
+element selected {
+  background-color: @bs;
+  border-radius: 7;
+  text-color: @fg;
+}
+
+element-text {
+  background-color: inherit;
+  text-color: inherit;
+  vertical-align: 0.5;
+}
+
+element-icon {
+  background-color: inherit;
+  text-color: inherit;
+  size: 30;
+}
+
+entry {
+  background-color: @bg;
+  padding: 12;
+  text-color: @fg;
+}
+
+inputbar {
+  children: [prompt, entry];
+  margin: 10 0 5 5;
+}
+
+inputbar {
+  background-color: @cg;
+}
+
+listview {
+  background-color: @bg;
+  margin: -3 10 10 10;
+  columns: 1;
+  lines: 5;
+}
+
+mainbox {
+  background-color: @bg;
+  children: [inputbar, listview];
+}
+
+prompt {
+  background-color: @bg;
+  enabled: true;
+  margin: 0 -11 0 0;
+  padding: 12;
+  border-radius: 7;
+  text-color: @fg;
+}
