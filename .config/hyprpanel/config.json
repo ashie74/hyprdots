@@ -395,27 +395,26 @@
   "scalingPriority": "gdk",
   "theme.osd.enable": true,
   "notifications.position": "top right",
-  "menus.dashboard.powermenu.avatar.image": "/home/ashie/Ashie Vault/assets/profiles pic/lego.jpg",
-  "menus.dashboard.controls.enabled": false,
+  "menus.dashboard.powermenu.avatar.image": "/home/ashie/.config/hyprpanel/lego.jpg",
+  "menus.dashboard.controls.enabled": true,
   "theme.bar.buttons.modules.ram.enableBorder": false,
   "bar.customModules.ram.labelType": "percentage",
   "bar.customModules.ram.round": true,
   "bar.layouts": {
     "0": {
       "left": [
-        "dashboard",
-        "systray"
+        "dashboard"
       ],
       "middle": [
         "workspaces"
       ],
       "right": [
-        "volume",
-        "network",
+        "systray",
         "bluetooth",
-        "battery",
-        "notifications",
-        "clock"
+        "network",
+        "volume",
+        "clock",
+        "notifications"
       ]
     },
     "1": {
@@ -444,8 +443,7 @@
       ],
       "right": [
         "volume",
-        "clock",
-        "notifications"
+        "clock"
       ]
     }
   },
@@ -454,7 +452,7 @@
   "menus.dashboard.powermenu.confirmation": true,
   "menus.dashboard.stats.enable_gpu": false,
   "menus.dashboard.stats.enabled": true,
-  "menus.dashboard.shortcuts.enabled": true,
+  "menus.dashboard.shortcuts.enabled": false,
   "theme.bar.buttons.modules.storage.enableBorder": false,
   "theme.bar.buttons.modules.power.enableBorder": false,
   "theme.bar.transparent": false,
@@ -501,7 +499,7 @@
   "bar.network.label": false,
   "bar.network.showWifiInfo": true,
   "bar.workspaces.workspaces": 3,
-  "bar.volume.label": false,
+  "bar.volume.label": true,
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "",
   "menus.dashboard.shortcuts.left.shortcut1.command": "",
   "menus.dashboard.shortcuts.left.shortcut1.icon": "",
@@ -549,5 +547,6 @@
   "menus.clock.weather.enabled": false,
   "theme.osd.border.size": "0em",
   "theme.osd.margins": "0px 5px 0px 0px",
-  "theme.osd.duration": 2500
+  "theme.osd.duration": 2500,
+  "menus.dashboard.powermenu.avatar.name": "Ashie"
 }
