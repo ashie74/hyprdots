@@ -1,10 +1,12 @@
 {
-    "editor.minimap.enabled": false,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.codeLensFontFamily": "JetBrains Mono Nerd Font",
+    "editor.inlayHints.fontFamily": "JetBrains Mono Nerd Font",
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
     "chat.commandCenter.enabled": false,
     "workbench.activityBar.location": "top",
     "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.editor.editorActionsLocation": "titleBar",
-    "workbench.statusBar.visible": false,"
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open"
 }
