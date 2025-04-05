@@ -457,7 +457,7 @@
   "theme.bar.buttons.modules.power.enableBorder": false,
   "theme.bar.transparent": false,
   "theme.bar.buttons.monochrome": false,
-  "bar.launcher.autoDetectIcon": false,
+  "bar.launcher.autoDetectIcon": true,
   "theme.bar.buttons.dashboard.enableBorder": false,
   "bar.workspaces.show_icons": false,
   "bar.workspaces.show_numbered": false,
