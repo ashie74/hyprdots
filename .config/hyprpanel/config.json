@@ -13,7 +13,7 @@
   "bar.autoHide": "never",
   "theme.bar.buttons.enableBorders": false,
   "theme.bar.border.width": "0.15em",
-  "theme.bar.outer_spacing": "0.5em",
+  "theme.bar.outer_spacing": "0.4em",
   "menus.media.hideAuthor": false,
   "menus.media.hideAlbum": false,
   "theme.bar.menus.monochrome": false,
@@ -403,17 +403,17 @@
   "bar.layouts": {
     "0": {
       "left": [
-        "dashboard"
+        "dashboard",
+        "workspaces"
       ],
       "middle": [
-        "workspaces"
+        "clock"
       ],
       "right": [
         "systray",
         "bluetooth",
         "network",
         "volume",
-        "clock",
         "notifications"
       ]
     },
@@ -482,9 +482,9 @@
   "bar.battery.hideLabelWhenFull": false,
   "theme.bar.buttons.systray.enableBorder": false,
   "bar.clock.showTime": true,
-  "bar.clock.showIcon": false,
-  "bar.clock.format": "%H:%M",
-  "bar.clock.icon": "",
+  "bar.clock.showIcon": true,
+  "bar.clock.format": "%d.%m.  %H:%M",
+  "bar.clock.icon": "󰸗",
   "theme.bar.layer": "top",
   "bar.scrollSpeed": 5,
   "bar.windowtitle.truncation_size": 50,
@@ -548,5 +548,8 @@
   "theme.osd.border.size": "0em",
   "theme.osd.margins": "0px 5px 0px 0px",
   "theme.osd.duration": 2500,
-  "menus.dashboard.powermenu.avatar.name": "Ashie"
+  "menus.dashboard.powermenu.avatar.name": "Ashie",
+  "theme.bar.border_radius": "0.4em",
+  "theme.bar.enableShadow": false,
+  "theme.bar.shadowMargins": "0px 0px 4px 0px"
 }
