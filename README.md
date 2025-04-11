@@ -43,9 +43,12 @@ sudo pacman -S nwg-look zsh man exa git polkit-kde-agent playerctl qt5-wayland q
 <details>
 <summary><h3>Apps & More</h3></summary>
 
-```sh
+
 ## Apps & More
+```sh
 sudo pacman -S neofetch htop viewnior neovim mpv nemo
+```
+```sh
 paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 ```
 - brother-hl1118 package is for brother printer
