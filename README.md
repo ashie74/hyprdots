@@ -21,8 +21,9 @@
 - Installation using paru and pacman 
 
 ```sh
-## Hyprland Stuff
 sudo pacman -S xdg-desktop-portal-hyprland hyprpicker hyprpaper
+```
+```sh
 paru -S ags-hyprpanel-git hyprshot-git
 ```
 
@@ -31,43 +32,40 @@ paru -S ags-hyprpanel-git hyprshot-git
 <details>
 <summary><h3>Dependencies</h3></summary>
 
-- For nerd-fonts enter 42 ttf-jetbrains-mono-nerd 
-
 ```sh
-## Dependencies
 sudo pacman -S nwg-look zsh man exa git polkit-kde-agent playerctl qt5-wayland qt6-wayland wtype nerd-fonts noto-fonts-emoji cliphist ark brightnessctl
 ```
+- For nerd-fonts enter 42 ttf-jetbrains-mono-nerd 
 
 </details>
 
 <details>
 <summary><h3>Apps & More</h3></summary>
 
-
-## Apps & More
 ```sh
 sudo pacman -S neofetch htop viewnior neovim mpv nemo
 ```
 ```sh
 paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 ```
-- brother-hl1118 package is for brother printer
 
-```sh
 ## Optional Apps
+```sh
 sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird
+```
+```sh
 paru -S brother-hl1118 
 ```
+- brother-hl1118 package is for brother printer
 
-- how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders) 
-
-```sh
 ## Theme Base
+```sh
 paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git
 ```
+- how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders) 
 
-```sh
 ### Pipewire
+```sh
 sudo pacman -S pipewire pipewire-alsa pipewire-audio pipewire-pulse pipewire-jack wireplumber gst-plugin-pipewire pavucontrol
 ```
 
