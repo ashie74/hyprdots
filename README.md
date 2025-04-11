@@ -1,11 +1,4 @@
-- **Window Manager** > [Hyprland](https://github.com/hyprwm/Hyprland) 🎨 
-- **Shell** > [Zsh](https://www.zsh.org) 🐚 
-- **Terminal** > [Kitty](https://sw.kovidgoyal.net/kitty/) 🐱
-- **Panel** > [Hyprpanel](https://hyprpanel.com/getting_started/installation.html) 💈
-- **Launcher** > [Rofi](https://github.com/davatorium/rofi) 🚀 
-- **File Manager** > [Nemo](https://github.com/linuxmint/nemo) 🔖 
-- **GUI Basic-IDE** > [LazyVim](https://www.lazyvim.org/installation) 🗒️
- 
+
 <details>
 
  <summary><b>INSTALL LIST</b></summary>
