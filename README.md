@@ -15,6 +15,9 @@
 <div align="left">
 
 <details>
+
+<summary><b>INSTALL</b></summary>
+  
 <summary><h3>Hyprland Stuff</h3></summary>
 
 ###### To get started, let's make sure we have all the necessary prerequisites. In this case, I'm using Paru as the AUR helper, but keep in mind that your system may require a different approach.
