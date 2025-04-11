@@ -459,9 +459,9 @@
   "bar.launcher.autoDetectIcon": true,
   "theme.bar.buttons.dashboard.enableBorder": false,
   "bar.workspaces.show_icons": false,
-  "bar.workspaces.show_numbered": false,
+  "bar.workspaces.show_numbered": true,
   "bar.workspaces.workspaceMask": false,
-  "bar.workspaces.showWsIcons": true,
+  "bar.workspaces.showWsIcons": false,
   "bar.workspaces.showApplicationIcons": false,
   "bar.workspaces.applicationIconOncePerWorkspace": true,
   "bar.workspaces.showAllActive": true,
@@ -529,7 +529,7 @@
   "theme.bar.margin_bottom": "0em",
   "bar.media.truncation_size": 30,
   "theme.bar.buttons.clock.enableBorder": false,
-  "bar.notifications.show_total": false,
+  "bar.notifications.show_total": true,
   "bar.notifications.hideCountWhenZero": false,
   "bar.network.truncation_size": 5,
   "menus.power.confirmation": true,
@@ -551,5 +551,7 @@
   "theme.bar.border_radius": "0.5em",
   "theme.bar.enableShadow": false,
   "theme.bar.shadowMargins": "0px 0px 4px 0px",
-  "theme.bar.menus.menu.network.scaling": 100
+  "theme.bar.menus.menu.network.scaling": 100,
+  "wallpaper.enable": false,
+  "theme.bar.buttons.background_hover_opacity": 100
 }
