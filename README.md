@@ -1,8 +1,6 @@
 
 <details>
 
- <summary><b>INSTALL LIST</b></summary>
-
 ## INSTALLATION (Arch Based Only)
 
 <div align="left">
