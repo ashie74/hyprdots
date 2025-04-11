@@ -6,8 +6,8 @@ alias mv="mv -iv"
 alias rm="rm -vI"
 alias mkd="mkdir -pv"
 alias ls="exa --icons --group-directories-first"
-alias dd='dsda-doom -iwad DOOM.WAD'
-alias dd2='dsda-doom -iwad DOOM2.WAD'
+alias d1='dsda-doom -iwad DOOM.WAD'
+alias d2='dsda-doom -iwad DOOM2.WAD'
 
 # application aliases
 alias v="$EDITOR"
