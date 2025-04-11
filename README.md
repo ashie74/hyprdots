@@ -14,9 +14,7 @@
 
 <div align="left">
 
-<details>
-
-<summary><b>INSTALL LIST</b></summary>
+<details> <summary><b>INSTALL LIST</b></summary>
   
 <summary><h3>Hyprland Stuff</h3></summary>
 
