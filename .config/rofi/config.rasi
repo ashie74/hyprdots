@@ -3,6 +3,7 @@ configuration {
   display-drun: "App:";
   display-run: "Run:";
   display-window: "Win:";
+  display-emoji: "Emoji:";
   drun-display-format : "{icon} {name}";
   font: "JetBrainsMono Nerd Font 10";
   modi: "window,run,drun";
