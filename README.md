@@ -1,1 +1,7 @@
-# Dotfiles
+- **Window Manager** • [Hyprland](https://github.com/hyprwm/Hyprland)🎨 
+- **Shell** • [Zsh](https://www.zsh.org) 🐚 
+- **Terminal** • [Kitty](https://github.com/wez/wezterm) 💻 
+- **Panel** • [Hyprpanel](https://aur.archlinux.org/packages/waybar-hyprland-git)🍧
+- **Launcher** • [Rofi](https://github.com/davatorium/rofi) 🚀 
+- **File Manager** • [Ranger](https://github.com/ranger/ranger)🔖 custom!
+- **Terminal text editer** • [LazyVim](https://github.com/linuxmobile/nvchad-v2)
