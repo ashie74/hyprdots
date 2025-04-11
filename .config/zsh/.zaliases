@@ -10,7 +10,7 @@ alias ls="exa --icons --group-directories-first"
 # application aliases
 alias v="$EDITOR"
 alias vim="$EDITOR"
-alias vc="$VISUAL"
+alias vsc="$VISUAL"
 alias p="paru"
 
 # dsda-doom
