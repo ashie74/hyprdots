@@ -13,7 +13,7 @@
   "bar.autoHide": "never",
   "theme.bar.buttons.enableBorders": false,
   "theme.bar.border.width": "0.15em",
-  "theme.bar.outer_spacing": "0.4em",
+  "theme.bar.outer_spacing": "0.2em",
   "menus.media.hideAuthor": false,
   "menus.media.hideAlbum": false,
   "theme.bar.menus.monochrome": false,
@@ -548,7 +548,8 @@
   "theme.osd.margins": "0px 5px 0px 0px",
   "theme.osd.duration": 2500,
   "menus.dashboard.powermenu.avatar.name": "Ashie",
-  "theme.bar.border_radius": "0.4em",
+  "theme.bar.border_radius": "0.5em",
   "theme.bar.enableShadow": false,
-  "theme.bar.shadowMargins": "0px 0px 4px 0px"
+  "theme.bar.shadowMargins": "0px 0px 4px 0px",
+  "theme.bar.menus.menu.network.scaling": 100
 }
