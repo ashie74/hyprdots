@@ -1,6 +1,3 @@
-
-<details>
-
 ## INSTALLATION (Arch Based Only)
 
 <div align="left">
