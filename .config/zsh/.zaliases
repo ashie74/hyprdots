@@ -7,13 +7,12 @@ alias rm="rm -vI"
 alias mkd="mkdir -pv"
 alias ls="exa --icons --group-directories-first"
 
-# dsda-doom
-alias d1='dsda-doom -iwad DOOM.WAD'
-alias d2='dsda-doom -iwad DOOM2.WAD'
-
 # application aliases
 alias v="$EDITOR"
 alias vim="$EDITOR"
 alias vc="$VISUAL"
 alias p="paru"
 
+# dsda-doom
+alias d1='dsda-doom -iwad DOOM.WAD'
+alias d2='dsda-doom -iwad DOOM2.WAD'
