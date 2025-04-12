@@ -44,7 +44,7 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 - brother-hl1118 package is for brother printer
 
 ```sh
-sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird
+sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird cava
 ```
 ```sh
 paru -S brother-hl1118 
