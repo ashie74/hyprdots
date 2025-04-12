@@ -26,7 +26,10 @@
   
 <summary><h3>Hyprland Stuff</h3></summary>
 
-- Installation using paru and pacman 
+- Installation using paru and pacman
+```sh
+sudo pacman -S paru
+```
 
 ```sh
 sudo pacman -S xdg-desktop-portal-hyprland hyprpicker hyprpaper
