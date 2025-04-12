@@ -18,6 +18,24 @@
 
 </details>
 
+<details>
+
+<summary><h3>Info</h3></summary>
+
+- Operating System: **EndeavourOS**
+- Window Manager: **Hyprland**
+- Status Bar: **Hyprpanel**
+- Terminal: **kitty**
+- Launcher: **rofi**
+- Browser: **Zen Browser** (with BetterFox)
+- File Manager: **nemo**
+- Image Viewer: **viewnior**
+- Video Player: **mpv**
+- Lockscreen: **ly**
+- Fonts: **JetBrains Mono Nerd Font**
+
+</details>
+
 ## INSTALLATION (Arch Based Only)
 
 <div align="left">
