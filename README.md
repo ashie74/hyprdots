@@ -93,7 +93,7 @@ sudo pacman -S pipewire pipewire-alsa pipewire-audio pipewire-pulse pipewire-jac
 
 ---
 
-# Thank you to 🩷
+# 🩷 Thank you to 
 - hyprland config based -> [linuxmobile](https://github.com/linuxmobile/hyprland-dots)
 - kitty config and zsh config -> [ericmurphyxyz](https://github.com/ericmurphyxyz/dotfiles)
 -  rofi config based -> [Eric Murphy](https://www.youtube.com/watch?v=v8w1i3wAKiw&t=154s)
