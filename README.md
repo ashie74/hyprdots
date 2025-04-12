@@ -86,3 +86,6 @@ sudo pacman -S pipewire pipewire-alsa pipewire-audio pipewire-pulse pipewire-jac
 </div>
 
 <div align="left">
+
+---
+
