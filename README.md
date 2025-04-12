@@ -21,9 +21,10 @@ paru -S ags-hyprpanel-git hyprshot-git
 <summary><h3>Dependencies</h3></summary>
 
 - For nerd-fonts enter 42 ttf-jetbrains-mono-nerd 
+- systemctl enable ly.service (enable Login Manager)
 
 ```sh
-sudo pacman -S nwg-look zsh man exa git polkit-kde-agent playerctl qt5-wayland qt6-wayland wtype nerd-fonts noto-fonts-emoji cliphist ark brightnessctl
+sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-wayland qt6-wayland wtype nerd-fonts noto-fonts-emoji cliphist ark brightnessctl
 ```
 
 </details>
