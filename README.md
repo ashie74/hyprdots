@@ -42,7 +42,7 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 
 ## Optional Apps
 
-- obsidian [CLICK HERE](https://github.com/ashie74/obsidian-dotfile)
+- obsidian setup [CLICK HERE](https://github.com/ashie74/obsidian-dotfile)
 - brother-hl1118 package is for brother printer
 
 ```sh
