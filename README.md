@@ -22,6 +22,7 @@ paru -S ags-hyprpanel-git hyprshot-git
 
 - For nerd-fonts enter 42 ttf-jetbrains-mono-nerd 
 - systemctl enable ly.service (enable Login Manager)
+- move ly to /etc/ly/
 
 ```sh
 sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-wayland qt6-wayland wtype nerd-fonts noto-fonts-emoji cliphist ark brightnessctl
@@ -41,6 +42,7 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 
 ## Optional Apps
 
+- obsidian [CLICK HERE]()
 - brother-hl1118 package is for brother printer
 
 ```sh
