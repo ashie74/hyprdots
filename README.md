@@ -98,7 +98,7 @@ paru -S brother-hl1118
 - how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders) 
 
 ```sh
-paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git
+paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git swaylock-effects 
 ```
 
 ### Pipewire
