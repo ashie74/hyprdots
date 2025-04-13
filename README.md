@@ -27,7 +27,7 @@
 - Status Bar: **Hyprpanel** 💈
 - Terminal: **kitty** 🐱
 - Launcher: **rofi** 🚀
-- Browser: **Zen Browser** (with BetterFox) 💻
+- Browser: **Zen Browser** (with BetterFox) 🦊
 - File Manager: **nemo** 🗃️
 - Image Viewer: **viewnior** 🖼️
 - Video Player: **mpv** 🎬
