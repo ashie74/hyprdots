@@ -74,6 +74,8 @@ sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-waylan
 <details>
 <summary><h3>Apps & More</h3></summary>
 
+- install [LazyVim](https://www.lazyvim.org/installation) (neovim config) 
+
 ```sh
 sudo pacman -S neofetch htop viewnior neovim mpv nemo
 ```
