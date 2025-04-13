@@ -22,17 +22,17 @@
 
 <summary><h3>Info</h3></summary>
 
-- Operating System: **EndeavourOS**
-- Window Manager: **Hyprland**
-- Status Bar: **Hyprpanel**
-- Terminal: **kitty**
-- Launcher: **rofi**
-- Browser: **Zen Browser** (with BetterFox)
-- File Manager: **nemo**
-- Image Viewer: **viewnior**
-- Video Player: **mpv**
-- Lockscreen: **ly**
-- Fonts: **JetBrains Mono Nerd Font**
+- Operating System: **EndeavourOS** 👾
+- Window Manager: **Hyprland** 🎨
+- Status Bar: **Hyprpanel** ➖
+- Terminal: **kitty** 🐱
+- Launcher: **rofi** 🚀
+- Browser: **Zen Browser** (with BetterFox) 🌐
+- File Manager: **nemo** 📁
+- Image Viewer: **viewnior** 🖼️
+- Video Player: **mpv** 🎬
+- Lockscreen: **Swaylock** 🔒
+- Fonts: **JetBrains Mono Nerd Font** 🔠
 
 </details>
 
@@ -98,7 +98,7 @@ paru -S brother-hl1118
 - how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders) 
 
 ```sh
-paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git swaylock-effects 
+paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git swaylock-effects-git
 ```
 
 ### Pipewire
@@ -116,6 +116,7 @@ sudo pacman -S pipewire pipewire-alsa pipewire-audio pipewire-pulse pipewire-jac
 
 # 🩷 Thank you to 
 - hyprland config based -> [linuxmobile](https://github.com/linuxmobile/hyprland-dots)
+- swaylock config based -> [linuxmobile](https://github.com/linuxmobile/hyprland-dots/blob/Sakura/.config/swaylock/config)
 - kitty config and zsh config -> [ericmurphyxyz](https://github.com/ericmurphyxyz/dotfiles)
--  rofi config based -> [Eric Murphy](https://www.youtube.com/watch?v=v8w1i3wAKiw&t=154s)
--  neofetch theme based -> [blockfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/blockfetch.conf)
+- rofi config based -> [Eric Murphy](https://www.youtube.com/watch?v=v8w1i3wAKiw&t=154s)
+- neofetch theme based -> [blockfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/blockfetch.conf)
