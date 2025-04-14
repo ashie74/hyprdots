@@ -18,9 +18,9 @@
 
 <summary><h3>ℹ️ Info</h3></summary>
 
-- Operating System: **EndeavourOS** ☄️
+- Operating System: **EndeavourOS** 🪐
 - Window Manager: **Hyprland** 🎨
-- Status Bar: **Hyprpanel** 💈
+- Status Bar: **Hyprpanel** 🚥
 - Terminal: **kitty** 🐱
 - Launcher: **rofi** 🚀
 - Browser: **Zen Browser** (with BetterFox) 🦊
