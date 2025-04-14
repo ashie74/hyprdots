@@ -11,7 +11,7 @@ indicator-thickness=20
 line-color=1e1e2e
 ring-color=181825
 inside-color=1e1e2e80
-key-hl-color=f5c2e7
+key-hl-color=cdd6f4
 separator-color=00000000
 text-color=cdd6f4
 text-caps-lock-color=""
@@ -32,5 +32,5 @@ grace=2
 grace-no-mouse
 grace-no-touch
 datestr=%d.%m.
-fade-in="0.1"
+fade-in=1.0
 ignore-empty-password
