@@ -26,6 +26,7 @@
 - open file manager (nemo): **SUPER + E**
 - open launcher (rofi): **SUPER + D** 
 
+---
 
 _More Keybins in ~/.config/hypr/keybinds.conf_
 
