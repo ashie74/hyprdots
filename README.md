@@ -17,15 +17,17 @@
 
 <details>
 
-<summary><h3>ℹBasic keybinds</h3></summary>
+<summary><h3>⌨️ Basic keybinds</h3></summary>
 
--
--
--
--
--
+- open terminal (kitty): **SUPER + ENTER**
+- eixt to login manager (ly): **CTRL + SHIFT + Q** 
+- close active window: **ALT + Q**
+- toggle to float and tile: **ALT + W**
+- open file manager (nemo): **SUPER + E**
+- open launcher (rofi): **SUPER + D** 
 
-_More Keybins in ~/.config/hypr/keybind.conf_
+
+_More Keybins in ~/.config/hypr/keybinds.conf_
 
 </details>
 
