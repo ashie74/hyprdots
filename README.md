@@ -18,7 +18,7 @@
 
 <summary><h3>ℹ️ Info</h3></summary>
 
-- Operating System: **EndeavourOS** 👾
+- Operating System: **EndeavourOS** ☄️
 - Window Manager: **Hyprland** 🎨
 - Status Bar: **Hyprpanel** 💈
 - Terminal: **kitty** 🐱
