@@ -34,6 +34,8 @@
 - Lockscreen: **Swaylock** 🔒
 - Fonts: **JetBrains Mono Nerd Font** 🔠
 
+- More wallpapers: [CLICK HERE](https://github.com/ashie74/wallpapers)
+
 </details>
 
 ## INSTALLATION (Arch Based Only)
@@ -89,7 +91,7 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 - brother-hl1118 package is for brother printer
 
 ```sh
-sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird cava
+sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird
 ```
 ```sh
 paru -S brother-hl1118 
