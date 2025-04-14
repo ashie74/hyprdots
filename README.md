@@ -14,6 +14,21 @@
 
 </details>
 
+
+<details>
+
+<summary><h3>ℹBasic keybinds</h3></summary>
+
+-
+-
+-
+-
+-
+
+_More Keybins in ~/.config/hypr/keybind.conf_
+
+</details>
+
 <details>
 
 <summary><h3>ℹ️ Info</h3></summary>
