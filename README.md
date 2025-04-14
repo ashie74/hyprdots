@@ -34,8 +34,6 @@
 - Lockscreen: **Swaylock** 🔒
 - Fonts: **JetBrains Mono Nerd Font** 🔠
 
-- More wallpapers: [CLICK HERE](https://github.com/ashie74/wallpapers)
-
 </details>
 
 ## INSTALLATION (Arch Based Only)
