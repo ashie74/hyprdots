@@ -40,7 +40,7 @@
   
 <summary><h3>Hyprland Stuff</h3></summary>
 
-- Installation using paru and pacman
+- _Installation using paru and pacman_
 ```sh
 sudo pacman -S paru
 ```
@@ -57,9 +57,9 @@ paru -S ags-hyprpanel-git hyprshot-git
 <details>
 <summary><h3>Dependencies</h3></summary>
 
-- For nerd-fonts enter 42 ttf-jetbrains-mono-nerd 
-- systemctl enable ly.service (enable Login Manager)
-- move ly folder to /etc/ly/
+- _For nerd-fonts enter 42 ttf-jetbrains-mono-nerd_ 
+- _systemctl enable ly.service (enable Login Manager)_
+- _move ly folder to /etc/ly/_
 
 ```sh
 sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-wayland qt6-wayland wtype nerd-fonts noto-fonts-emoji cliphist ark brightnessctl
@@ -70,7 +70,7 @@ sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-waylan
 <details>
 <summary><h3>Apps & More</h3></summary>
 
-- install [LazyVim](https://www.lazyvim.org/installation) (neovim config) 
+- _install [LazyVim](https://www.lazyvim.org/installation) (neovim config)_
 
 ```sh
 sudo pacman -S neofetch htop viewnior neovim mpv nemo
@@ -81,8 +81,8 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 
 ## Optional Apps
 
-- obsidian setup [CLICK HERE](https://github.com/ashie74/obsidian-dotfile)
-- brother-hl1118 package is for brother printer
+- _obsidian setup [CLICK HERE](https://github.com/ashie74/obsidian-dotfile)_
+- _brother-hl1118 package is for brother printer_
 
 ```sh
 sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird
@@ -93,7 +93,7 @@ paru -S brother-hl1118
 
 ## Theme Base
 
-- how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders) 
+- _how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders)_ 
 
 ```sh
 paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git swaylock-effects-git
