@@ -406,14 +406,15 @@
         "workspaces"
       ],
       "middle": [
-        "clock"
+        ""
       ],
       "right": [
         "systray",
         "bluetooth",
         "network",
         "volume",
-        "notifications"
+        "notifications",
+        "clock"
       ]
     },
     "1": {
@@ -482,8 +483,8 @@
   "theme.bar.buttons.systray.enableBorder": false,
   "bar.clock.showTime": true,
   "bar.clock.showIcon": true,
-  "bar.clock.format": "%d.%m.  %H:%M",
-  "bar.clock.icon": "󰸗",
+  "bar.clock.format": "%H:%M",
+  "bar.clock.icon": "󰥔",
   "theme.bar.layer": "top",
   "bar.scrollSpeed": 5,
   "bar.windowtitle.truncation_size": 50,
@@ -529,7 +530,7 @@
   "theme.bar.margin_bottom": "0em",
   "bar.media.truncation_size": 30,
   "theme.bar.buttons.clock.enableBorder": false,
-  "bar.notifications.show_total": true,
+  "bar.notifications.show_total": false,
   "bar.notifications.hideCountWhenZero": false,
   "bar.network.truncation_size": 5,
   "menus.power.confirmation": true,
