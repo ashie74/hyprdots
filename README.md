@@ -8,7 +8,7 @@
 
 <img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshots/tilles.png">
 
-<img align="center" src="https://github.com/ashie74/wallpaperss/blob/main/screenshots/flode.png">
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshots/flode.png">
 
 </details>
 
