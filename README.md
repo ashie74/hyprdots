@@ -10,8 +10,6 @@
 
 <img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshots/flode.png">
 
-- More wallpapers [CLICK HERE](https://github.com/ashie74/wallpapers)
-
 </details>
 
 
