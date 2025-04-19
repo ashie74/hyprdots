@@ -6,9 +6,9 @@
   
 <summary><h3>🗨️ More</h3></summary>
 
-<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshotz/tilles.png">
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshot/tilles.png">
 
-<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshotz/flode.png">
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshot/flode.png">
 
 </details>
 
