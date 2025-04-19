@@ -1,14 +1,14 @@
 # 💠 Setup
 
-<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshots/wall.png">
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshot/wall.png">
 
 <details>
   
 <summary><h3>🗨️ More</h3></summary>
 
-<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshots/tilles.png">
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshot/tilles.png">
 
-<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshots/flode.png">
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/screenshot/flode.png">
 
 </details>
 
