@@ -47,6 +47,8 @@ _More Keybins in ~/.config/hypr/keybinds.conf_
 - Lockscreen: **Swaylock** 🔒
 - Fonts: **JetBrains Mono Nerd Font** 🔠
 
+---
+
 </details>
 
 ## INSTALLATION (Arch Based Only)
