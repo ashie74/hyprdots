@@ -22,7 +22,7 @@
   "theme.bar.menus.opacity": 100,
   "menus.volume.raiseMaximumVolume": true,
   "menus.power.showLabel": true,
-  "menus.power.lowBatteryNotification": true,
+  "menus.power.lowBatteryNotification": false,
   "theme.bar.menus.menu.notifications.scrollbar.color": "#cdd6f4",
   "theme.bar.menus.menu.notifications.pager.label": "#9399b2",
   "theme.bar.menus.menu.notifications.pager.button": "#cdd6f4",
@@ -409,12 +409,12 @@
         "workspaces"
       ],
       "right": [
-        "systray",
         "battery",
         "bluetooth",
         "network",
         "volume",
-        "notifications"
+        "notifications",
+        "systray"
       ]
     },
     "1": {
@@ -478,8 +478,8 @@
   "bar.windowtitle.icon": true,
   "bar.windowtitle.truncation": true,
   "theme.bar.buttons.volume.enableBorder": false,
-  "bar.battery.label": true,
-  "bar.battery.hideLabelWhenFull": true,
+  "bar.battery.label": false,
+  "bar.battery.hideLabelWhenFull": false,
   "theme.bar.buttons.systray.enableBorder": false,
   "bar.clock.showTime": true,
   "bar.clock.showIcon": true,
@@ -492,12 +492,12 @@
   "bar.bluetooth.label": false,
   "theme.bar.opacity": 100,
   "theme.bar.buttons.opacity": 100,
-  "theme.bar.buttons.background_opacity": 100,
+  "theme.bar.buttons.background_opacity": 0,
   "theme.bar.buttons.spacing": "0.25em",
   "theme.matugen_settings.scheme_type": "tonal-spot",
   "theme.bar.buttons.notifications.enableBorder": false,
   "bar.network.label": false,
-  "bar.network.showWifiInfo": true,
+  "bar.network.showWifiInfo": false,
   "bar.workspaces.workspaces": 4,
   "bar.volume.label": true,
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "",
@@ -556,5 +556,6 @@
   "wallpaper.enable": false,
   "theme.bar.buttons.background_hover_opacity": 100,
   "theme.bar.menus.enableShadow": false,
-  "bar.workspaces.reverse_scroll": false
+  "bar.workspaces.reverse_scroll": false,
+  "theme.bar.buttons.modules.microphone.enableBorder": false
 }
