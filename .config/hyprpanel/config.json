@@ -29,7 +29,7 @@
   "theme.bar.menus.menu.notifications.pager.background": "#11111b",
   "theme.bar.menus.menu.notifications.switch.puck": "#454759",
   "theme.bar.menus.menu.notifications.switch.disabled": "#313245",
-  "theme.bar.menus.menu.notifications.switch.enabled": "#f5c2e7",
+  "theme.bar.menus.menu.notifications.switch.enabled": "#f9e2af",
   "theme.bar.menus.menu.notifications.clear": "#f38ba8",
   "theme.bar.menus.menu.notifications.switch_divider": "#45475a",
   "theme.bar.menus.menu.notifications.border": "#313244",
