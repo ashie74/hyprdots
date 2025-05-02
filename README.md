@@ -11,6 +11,8 @@
 
 <img align="center" src="https://github.com/ashie74/wallpapers/blob/main/Screenshot/flode.png">
 
+<img align="center" src="https://github.com/ashie74/wallpapers/blob/main/Screenshot/notific.png">
+
 </details>
 
 
