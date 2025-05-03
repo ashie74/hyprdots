@@ -46,6 +46,7 @@ _More Keybins in ~/.config/hypr/keybinds.conf_
 - File Manager: **nemo** 🗃️
 - Image Viewer: **viewnior** 🖼️
 - Video Player: **mpv** 🎬
+- Graphic Editor: **GIMP** (with PhotoGIMP) 🖌️
 - Lockscreen: **Swaylock** 🔒
 - Fonts: **JetBrains Mono Nerd Font** 🔠
 
@@ -138,3 +139,4 @@ sudo pacman -S pipewire pipewire-alsa pipewire-audio pipewire-pulse pipewire-jac
 - kitty config and zsh config -> [ericmurphyxyz](https://github.com/ericmurphyxyz/dotfiles)
 - rofi config based -> [Eric Murphy](https://www.youtube.com/watch?v=v8w1i3wAKiw&t=154s)
 - neofetch theme based -> [blockfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/blockfetch.conf)
+- bar inspiration -> [PewDiePie](https://www.youtube.com/watch?v=pVI_smLgTY0&t=1071s)
