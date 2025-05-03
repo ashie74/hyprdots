@@ -101,10 +101,11 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 ## Optional Apps
 
 - _obsidian setup [CLICK HERE](https://github.com/ashie74/obsidian-dotfile)_
+- _GIMP = PhotoGIMP [CLICK HERE](https://github.com/Diolinux/PhotoGIMP)_
 - _brother-hl1118 package is for brother printer_
 
 ```sh
-sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird
+sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird gimp
 ```
 ```sh
 paru -S brother-hl1118 
