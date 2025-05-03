@@ -78,8 +78,7 @@ paru -S ags-hyprpanel-git hyprshot-git
 <summary><h3>Dependencies</h3></summary>
 
 - _For nerd-fonts enter 42 ttf-jetbrains-mono-nerd_ 
-- _systemctl enable ly.service (enable Login Manager)_
-- _move ly folder to /etc/ly/_
+- _systemctl enable ly.service (enable Login Manager) | move ly folder to /etc/ly/_
 
 ```sh
 sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-wayland qt6-wayland wtype nerd-fonts noto-fonts-emoji cliphist ark brightnessctl
@@ -90,7 +89,8 @@ sudo pacman -S nwg-look ly zsh man exa git polkit-kde-agent playerctl qt5-waylan
 <details>
 <summary><h3>Apps & More</h3></summary>
 
-- _install [LazyVim](https://www.lazyvim.org/installation) (neovim config)_
+- _LazyVim [GET HERE](https://www.lazyvim.org/installation) (neovim config)_
+- BetterFox [GET HERE](https://github.com/yokoffing/Betterfox/blob/main/user.js)
 
 ```sh
 sudo pacman -S neofetch htop mpv neovim viewnior nemo
@@ -101,9 +101,11 @@ paru -S rofi-lbonn-wayland rofi-emoji-git zen-browser-bin vscodium-bin
 
 ## Optional Apps
 
-- _obsidian setup [CLICK HERE](https://github.com/ashie74/obsidian-dotfile)_
-- _GIMP = PhotoGIMP [CLICK HERE](https://github.com/Diolinux/PhotoGIMP)_
+- _obsidian setup [GET HERE](https://github.com/ashie74/obsidian-dotfile)_
+- _GIMP = PhotoGIMP [GET HERE](https://github.com/Diolinux/PhotoGIMP)_
 - _brother-hl1118 package is for brother printer_
+
+
 
 ```sh
 sudo pacman -S obsidian cups cups-pdf print-manager spotify-launcher steam thunderbird gimp
@@ -114,7 +116,7 @@ paru -S brother-hl1118
 
 ## Theme Base
 
-- _how to change papirus folder color [CLICK HERE](https://github.com/catppuccin/papirus-folders)_ 
+- _how to change papirus folder color [GET HERE](https://github.com/catppuccin/papirus-folders)_ 
 
 ```sh
 paru -S catppuccin-gtk-theme-mocha papirus-icon-theme papirus-folder-catppuccin-git swaylock-effects-git
